@@ -7,3 +7,8 @@ Computer Engineering student focused on **computer architecture**, **GPU systems
 - 💻 Languages: C/C++, Verilog, Python
 - 🌐 Portfolio: [[VincentZhu.github.io](https://lunarberzithal.github.io/VincentPortfolio/)]
 - 📫 Reach me: [LinkedIn](https://linkedin.com/in/vincentzhu1) · vzhu64@icloud.com
+
+
+
+
+                    ## VENI VEDI VICI
