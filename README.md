@@ -11,4 +11,5 @@ Computer Engineering student focused on **computer architecture**, **GPU systems
 
 
 
-                    ## VENI VEDI VICI
+
+##                                       VENI VEDI VICI
